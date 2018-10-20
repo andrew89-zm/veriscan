@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "588792253405",
+    "firebase_url": "https://scan-app-6917a.firebaseio.com",
+    "project_id": "scan-app-6917a",
+    "storage_bucket": "scan-app-6917a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588792253405:android:b3b7d83378e715ec",
+        "android_client_info": {
+          "package_name": "com.example.scanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588792253405-un0tsaar67iaoj3u7rg6j1rmlobhddan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scanapp",
+            "certificate_hash": "504cced29984537f53fbd8cc1851e2870cb88812"
+          }
+        },
+        {
+          "client_id": "588792253405-uh64mjb34l5snpnqbdf2vjmgh9n658k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwavjKaQQaBgnbx4Siu0yI0p30n23HTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588792253405-uh64mjb34l5snpnqbdf2vjmgh9n658k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
